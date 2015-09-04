@@ -1,0 +1,2 @@
+# westwood_academy_ambassador_calendar_chrome_extension
+Calendar reader for the westwood ambassadors
